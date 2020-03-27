@@ -1,8 +1,6 @@
-# Machine Learning Recommender Pipeline for FYDP
-This repository will store any ML related work for our Ambrosia.
+# UW SYDE 2020 FYDP
+This repository will store ML and stats related work for Ambrosia.
 
-It is a two part system:
-1. ANN trained with BP-MLL
-2. NLP pipeline with LSI
+Main author: Earvin Tio
 
-![system architecture](workflow.png)
+Contributing team members: Dominic Dotzert, Ashley Hu, Arrchana Pradeepan
